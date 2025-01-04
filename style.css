@@ -38,7 +38,7 @@ main {
    
 }
 .hero {
-    text-align:center;
+    text-align:left;
     -webkit-text-size-adjust:auto;
     background-color:#00FF00;
     color: black;
