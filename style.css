@@ -53,7 +53,7 @@ main {
 .features ul {
     list-style-type: disc;
     padding-left: 20px;
-    font-family: "fantasy", "papyrus";
+    font-family: Arial, sans-serif;
     font-weight:bolder;
     color: black;
     
